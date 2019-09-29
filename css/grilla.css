@@ -30,8 +30,8 @@
 /* "Formula: columna/12 *100" */
 [class*="col-"]{
     float: left;
-    border: 1px solid black;
-    padding: 20px;
+    /*border: 1px solid black;
+    padding: 20px;*/
 }
 @media(min-width: 1200px){
     .col-xl-1{
