@@ -30,6 +30,19 @@
         font-size: 1.5em;
         color: gray;
     }
+    .menu-fondo{
+        padding: 5em .8em;
+        text-align: center;
+        background-image: url(../assets/images/fondo.webp)
+    }
+    .menu-fondo h2{
+        font-size: 5.5em;
+        color: white;
+    }
+    .menu-fondo p{
+        font-size: 4em;
+        color: white;
+    }
     /* Fin header */
 }
 @media(min-width:576px) and (max-width:767px){
@@ -64,6 +77,21 @@
         font-size: 1.5em;
         color: gray;
     }
+    .menu-fondo{
+        padding: 6em .8em;
+        text-align: center;
+        background-image: url(../assets/images/fondo.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .menu-fondo h2{
+        font-size: 5.5em;
+        color: white;
+    }
+    .menu-fondo p{
+        font-size: 3.7em;
+        color: white;
+    }
     /* Fin header */
 }
 @media(min-width:768px) and (max-width:991px){
@@ -87,6 +115,21 @@
     .menu-navegacion ul li a{
         color: gray;
         font-size: .9em;
+    }
+    .menu-fondo{
+        padding: 8em 0;
+        text-align: center;
+        background-image: url(../assets/images/fondo.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .menu-fondo h2{
+        font-size: 5.5em;
+        color: white;
+    }
+    .menu-fondo p{
+        font-size: 3.5em;
+        color: white;
     }
     /* Fin header */
 }
@@ -112,6 +155,21 @@
         color: gray;
         font-size: 1.1em;
     }
+    .menu-fondo{
+        padding: 8em 0;
+        text-align: center;
+        background-image: url(../assets/images/fondo.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .menu-fondo h2{
+        font-size: 5.5em;
+        color: white;
+    }
+    .menu-fondo p{
+        font-size: 3.5em;
+        color: white;
+    }
     /* Fin header */
 }
 @media(min-width:1200px){
@@ -135,6 +193,21 @@
     .menu-navegacion ul li a{
         color: gray;
         font-size: 1.4em;
+    }
+    .menu-fondo{
+        padding: 11em 0;
+        text-align: center;
+        background-image: url(../assets/images/fondo.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .menu-fondo h2{
+        font-size: 5.5em;
+        color: white;
+    }
+    .menu-fondo p{
+        font-size: 3.5em;
+        color: white;
     }
     /* Fin header */
 }
